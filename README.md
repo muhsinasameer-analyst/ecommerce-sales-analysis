@@ -57,6 +57,8 @@ To analyze e-commerce sales data and generate insights on customer behavior, pro
 
 
 ## 📸 Data Cleaning Preview
-
+--clean_data:
 ![Cleaned Data](clean_data.png)
+
+--raw_data:
 ![Raw Data](raw_data.png)
