@@ -54,3 +54,9 @@ To analyze e-commerce sales data and generate insights on customer behavior, pro
 - SQL Querying  
 - Data Visualization  
 - Business Insight Generation  
+
+
+## 📸 Data Cleaning Preview
+
+![Cleaned Data](clean_data.png)
+![Raw Data](raw_data.png)
