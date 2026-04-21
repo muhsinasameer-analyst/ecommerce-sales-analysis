@@ -36,7 +36,7 @@ To analyze e-commerce sales data and generate insights on customer behavior, pro
 ---
 
 ## 📊 Dashboard  
-*(Add Tableau dashboard screenshots here)*  
+![Dashboard](dashboard.png)  
 
 ---
 
